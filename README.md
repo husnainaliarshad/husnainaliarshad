@@ -182,6 +182,10 @@
         <a href="https://github.com/husnainaliarshad/multiplayer-whiteboard">
           <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
+        &nbsp;
+        <a href="https://multiplayer-whiteboard-iota.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-24292e?style=for-the-badge&logo=vercel&logoColor=FAFAFA" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
