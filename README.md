@@ -80,26 +80,127 @@
 
 <br/>
 
-## &nbsp;⊹ Stats
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=husnainaliarshad&show_icons=true&hide_border=true&title_color=2D2D2D&icon_color=6B7280&text_color=6B7280&bg_color=00000000&ring_color=2D2D2D&hide=stars" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainaliarshad&layout=compact&hide_border=true&title_color=2D2D2D&text_color=6B7280&bg_color=00000000&langs_count=6" />
-</div>
+## &nbsp;⊹ Featured Projects
 
 <br/>
 
-## &nbsp;⊹ Connect
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ADAL — AI Analysis for Law</h3>
+      <p align="center">
+        An AI-assisted legal workspace with drafting, citation extraction, summarization, and document management.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss" />
+        <br/><br/>
+        <a href="https://github.com/husnainaliarshad/ADAL---AI-Analysis-for-Law">
+          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+        </a>
+        &nbsp;
+        <a href="https://adal-ai-analysis-for-law.vercel.app">
+          <img src="https://img.shields.io/badge/Live-2D2D2D?style=for-the-badge&logo=vercel&logoColor=FAFAFA" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Tarum — Creator UI</h3>
+      <p align="center">
+        An AI-powered image and video generation platform with responsive design, dark/light mode, and full accessibility.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat&logo=tailwindcss" />
+        <img src="https://img.shields.io/badge/Turso-4E9AD1?style=flat&logo=sqlite" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
+        <br/><br/>
+        <a href="https://github.com/husnainaliarshad/tarum">
+          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+        </a>
+        &nbsp;
+        <a href="https://tarum-nw5j.vercel.app">
+          <img src="https://img.shields.io/badge/Live-2D2D2D?style=for-the-badge&logo=vercel&logoColor=FAFAFA" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://linkedin.com/in/husnainaliarshad">
-    <img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:husnain.ali.arshad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2D2D2D?style=for-the-badge&logo=gmail&logoColor=FAFAFA" alt="Email" />
-  </a>
-</div>
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Multi-Agent Debate</h3>
+      <p align="center">
+        A multi-agent debate system using LLMs with Docker, Ollama, and CrewAI for structured argumentation and consensus.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+        <img src="https://img.shields.io/badge/CrewAI-000000?style=flat" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama" />
+        <br/><br/>
+        <a href="https://github.com/husnainaliarshad/Multi-Agent-Debate">
+          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Valid Person Finder Tool</h3>
+      <p align="center">
+        A search tool that finds people by company and designation using public APIs with an optional CrewAI agentic pipeline.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask" />
+        <img src="https://img.shields.io/badge/CrewAI-000000?style=flat" />
+        <br/><br/>
+        <a href="https://github.com/husnainaliarshad/valid-person-finder-tool">
+          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">DevSecOps CICD Pipeline</h3>
+      <p align="center">
+        Automated Netflix clone deployment with Jenkins, Docker, Kubernetes, Trivy, SonarQube, Grafana and Prometheus monitoring.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana" />
+        <br/><br/>
+        <a href="https://github.com/husnainaliarshad/DevSecOps-CICD-Pipeline-NetflixClone">
+          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Blood Donation Management</h3>
+      <p align="center">
+        A full-stack blood donation management system with donor matching, inventory tracking, and request handling.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk" />
+        <br/><br/>
+        <a href="https://github.com/husnainaliarshad/BloodDonationManagementSystem">
+          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
