@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=2D2D2D&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Husnain+%F0%9F%91%8B;Full-Stack+Developer;Building+things+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Husnain+%F0%9F%91%8B;Full-Stack+Developer;Building+things+that+matter" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -98,11 +98,11 @@
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss" />
         <br/><br/>
         <a href="https://github.com/husnainaliarshad/ADAL---AI-Analysis-for-Law">
-          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
         &nbsp;
         <a href="https://adal-ai-analysis-for-law.vercel.app">
-          <img src="https://img.shields.io/badge/Live-2D2D2D?style=for-the-badge&logo=vercel&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Live-404040?style=for-the-badge&logo=vercel&logoColor=FAFAFA" />
         </a>
       </p>
     </td>
@@ -117,11 +117,11 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
         <br/><br/>
         <a href="https://github.com/husnainaliarshad/tarum">
-          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
         &nbsp;
         <a href="https://tarum-nw5j.vercel.app">
-          <img src="https://img.shields.io/badge/Live-2D2D2D?style=for-the-badge&logo=vercel&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Live-404040?style=for-the-badge&logo=vercel&logoColor=FAFAFA" />
         </a>
       </p>
     </td>
@@ -143,7 +143,7 @@
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama" />
         <br/><br/>
         <a href="https://github.com/husnainaliarshad/Multi-Agent-Debate">
-          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
       </p>
     </td>
@@ -158,7 +158,7 @@
         <img src="https://img.shields.io/badge/CrewAI-000000?style=flat" />
         <br/><br/>
         <a href="https://github.com/husnainaliarshad/valid-person-finder-tool">
-          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
       </p>
     </td>
@@ -180,7 +180,7 @@
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana" />
         <br/><br/>
         <a href="https://github.com/husnainaliarshad/DevSecOps-CICD-Pipeline-NetflixClone">
-          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
       </p>
     </td>
@@ -195,7 +195,7 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk" />
         <br/><br/>
         <a href="https://github.com/husnainaliarshad/BloodDonationManagementSystem">
-          <img src="https://img.shields.io/badge/Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+          <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
       </p>
     </td>
