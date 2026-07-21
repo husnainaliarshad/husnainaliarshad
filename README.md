@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:husnain@example.com">
+  <a href="mailto:husnain.ali.arshad@gmail.com">
     <img src="https://img.shields.io/badge/Email-2D2D2D?style=for-the-badge&logo=gmail&logoColor=FAFAFA" alt="Email" />
   </a>
 </div>
