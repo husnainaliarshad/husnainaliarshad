@@ -170,16 +170,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DevSecOps CICD Pipeline</h3>
+      <h3 align="center">Multiplayer Whiteboard</h3>
       <p align="center">
-        Automated Netflix clone deployment with Jenkins, Docker, Kubernetes, Trivy, SonarQube, Grafana and Prometheus monitoring.
+        Real-time collaborative whiteboard with live cursors, drawing tools, and room-based sessions using WebSockets.
         <br/><br/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio" />
+        <img src="https://img.shields.io/badge/Canvas-E72429?style=flat&logo=html5" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss" />
         <br/><br/>
-        <a href="https://github.com/husnainaliarshad/DevSecOps-CICD-Pipeline-NetflixClone">
+        <a href="https://github.com/husnainaliarshad/multiplayer-whiteboard">
           <img src="https://img.shields.io/badge/Repo-404040?style=for-the-badge&logo=github&logoColor=FAFAFA" />
         </a>
       </p>
